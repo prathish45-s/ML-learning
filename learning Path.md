@@ -12,8 +12,8 @@
 | 📏 SVM | ✅ Done | — |
 | 🧠 Naive Bayes | ✅ Done | — |
 | 🔵 K-Means | ✅ Done | Inertia, Elbow, clustering |
-| 🔗 Hierarchical Clustering | 🟡 **Currently here** | — |
-| 🟣 DBSCAN | ⏳ | — |
+| 🔗 Hierarchical Clustering |✅ Done | — |
+| 🟣 DBSCAN | 🟡 Current learing | — |
 | 📉 PCA | 🟡 Basic learned | Practical PCA + dimensionality reduction |
 | 🚀 Ensemble ML | ⏳ | Gradient Boosting, XGBoost, LightGBM/CatBoost |
 | ⚙️ ML Optimization | ⏳ | Cross-validation, pipelines, tuning, feature engineering |
